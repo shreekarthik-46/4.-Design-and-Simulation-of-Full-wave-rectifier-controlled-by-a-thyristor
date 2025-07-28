@@ -1,0 +1,1 @@
+# 4.-Design-and-Simulation-of-Full-wave-rectifier-controlled-by-a-thyristor
